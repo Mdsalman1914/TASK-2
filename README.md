@@ -21,3 +21,9 @@ How to Compile and Run:
 4. Run the program with `./calculator`.
 
 You can then enter your inputs to see the results!
+
+OUTPUT OF THE PROJECT 
+_________________________________________________________
+
+![Screenshot 2024-10-20 210631](https://github.com/user-attachments/assets/1a59f095-d88f-41e5-b73c-555eefe02f86)
+
